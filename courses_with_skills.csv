@@ -1,0 +1,181 @@
+course_name,abbreviation,course_description,extracted_skills
+Deep Learning With Tensorflow  Level 2,Other,Neural Networks Cnns Rnns And Tensorflow Implementation,None
+Data Communication  Level 2,Other,Techniques For Presenting Analytical Findings Effectively,None
+Natural Language Processing  Level 5,Other,Text Mining Sentiment Analysis And Nlp Models Using Python,Python
+Applied Econometrics  Level 5,Other,Regression Analysis Panel Data And Econometric Modeling,None
+R Programming For Statistics  Level 2,Other,Focuses On R Programming Statistical Modeling And Visualization,"R, Statistics, R"
+Time Series Analysis  Level 4,Other,Arima Forecasting And Temporal Data Modeling,None
+Data Storytelling  Level 5,Other,Methods For Turning Data Into Compelling Narratives,None
+Python For Data Analysis  Level 3,Other,Covers Python Basics Numpy Pandas And Data Cleaning For Analytics,"Python, Python"
+Deep Learning With Tensorflow  Level 1,Other,Neural Networks Cnns Rnns And Tensorflow Implementation,None
+Computer Vision  Level 1,Other,Image Processing Cnn Models And Object Detection,None
+Cloud Computing For Data Science  Level 1,Other,Aws Azure And Gcp For Scalable Analytics Solutions,None
+Time Series Analysis  Level 4,Other,Arima Forecasting And Temporal Data Modeling,None
+Etl And Data Warehousing  Level 5,Other,Data Pipelines Warehousing And Etl Tools For Analytics,None
+Sql For Data Science  Level 3,Other,Teaches Sql Queries Joins Subqueries And Database Management,"SQL, SQL"
+Business Forecasting  Level 1,Other,Forecasting Demand Sales And Financial Trends Using Models,None
+Business Analytics  Level 5,Other,Frameworks For Analyzing And Interpreting Business Data,None
+Advanced Sql Optimization  Level 4,Other,Query Tuning Indexing And Stored Procedures For Performance,SQL
+Statistics For Data Science  Level 5,Other,Core Statistics Concepts Applied To Data Analysis,"Statistics, Statistics"
+Data Mining Techniques  Level 1,Other,Clustering Classification And Association Rule Mining,None
+Business Analytics  Level 5,Other,Frameworks For Analyzing And Interpreting Business Data,None
+Business Analytics  Level 5,Other,Frameworks For Analyzing And Interpreting Business Data,None
+Statistics For Data Science  Level 3,Other,Core Statistics Concepts Applied To Data Analysis,"Statistics, Statistics"
+Data Visualization With Python  Level 1,Other,Matplotlib Seaborn And Interactive Visualization Techniques,Python
+Applied Econometrics  Level 2,Other,Regression Analysis Panel Data And Econometric Modeling,None
+Deep Learning With Tensorflow  Level 4,Other,Neural Networks Cnns Rnns And Tensorflow Implementation,None
+Power Bi For Business Intelligence  Level 5,Other,Covers Power Bi Modeling Dax And Dashboard Creation,"Power BI, Power BI"
+Natural Language Processing  Level 1,Other,Text Mining Sentiment Analysis And Nlp Models Using Python,Python
+Data Communication  Level 1,Other,Techniques For Presenting Analytical Findings Effectively,None
+Applied Econometrics  Level 5,Other,Regression Analysis Panel Data And Econometric Modeling,None
+Data Engineering With Spark  Level 3,Other,Big Data Pipelines Using Apache Spark And Pyspark,None
+Deep Learning With Tensorflow  Level 3,Other,Neural Networks Cnns Rnns And Tensorflow Implementation,None
+Natural Language Processing  Level 3,Other,Text Mining Sentiment Analysis And Nlp Models Using Python,Python
+Business Statistics  Level 4,Other,Probability Hypothesis Testing And Regression For Business,Statistics
+Advanced Sql Optimization  Level 5,Other,Query Tuning Indexing And Stored Procedures For Performance,SQL
+Cloud Computing For Data Science  Level 3,Other,Aws Azure And Gcp For Scalable Analytics Solutions,None
+Reinforcement Learning  Level 5,Other,Qlearning Deep Reinforcement Learning And Applications,None
+Data Communication  Level 1,Other,Techniques For Presenting Analytical Findings Effectively,None
+Predictive Analytics  Level 1,Other,Regression Classification And Predictive Modeling Techniques,None
+Reinforcement Learning  Level 2,Other,Qlearning Deep Reinforcement Learning And Applications,None
+Data Storytelling  Level 4,Other,Methods For Turning Data Into Compelling Narratives,None
+Business Analytics  Level 2,Other,Frameworks For Analyzing And Interpreting Business Data,None
+Machine Learning Fundamentals  Level 2,Other,Introduction To Supervised And Unsupervised Machine Learning Algorithms,"Machine Learning, Machine Learning"
+Tableau Data Visualization  Level 2,Other,Interactive Dashboards Visual Analytics And Storytelling With Tableau,"Tableau, Tableau"
+Big Data Analytics With Hadoop  Level 1,Other,Hadoop Ecosystem Hdfs Mapreduce And Data Processing,None
+Deep Learning With Tensorflow  Level 1,Other,Neural Networks Cnns Rnns And Tensorflow Implementation,None
+Business Forecasting  Level 1,Other,Forecasting Demand Sales And Financial Trends Using Models,None
+Business Forecasting  Level 5,Other,Forecasting Demand Sales And Financial Trends Using Models,None
+Deep Learning With Tensorflow  Level 1,Other,Neural Networks Cnns Rnns And Tensorflow Implementation,None
+Etl And Data Warehousing  Level 1,Other,Data Pipelines Warehousing And Etl Tools For Analytics,None
+Python For Data Analysis  Level 1,Other,Covers Python Basics Numpy Pandas And Data Cleaning For Analytics,"Python, Python"
+Excel For Business Analytics  Level 3,Other,Advanced Excel Functions Pivot Tables And Datadriven Decision Making,"Excel, Excel"
+Applied Econometrics  Level 3,Other,Regression Analysis Panel Data And Econometric Modeling,None
+Statistics For Data Science  Level 5,Other,Core Statistics Concepts Applied To Data Analysis,"Statistics, Statistics"
+Data Ethics And Privacy  Level 5,Other,Covers Ethical Handling Of Data Gdpr And Compliance,None
+Artificial Intelligence Basics  Level 4,Other,Overview Of Ai Intelligent Agents And Problemsolving Techniques,None
+Power Bi For Business Intelligence  Level 4,Other,Covers Power Bi Modeling Dax And Dashboard Creation,"Power BI, Power BI"
+Sql For Data Science  Level 5,Other,Teaches Sql Queries Joins Subqueries And Database Management,"SQL, SQL"
+Machine Learning Fundamentals  Level 5,Other,Introduction To Supervised And Unsupervised Machine Learning Algorithms,"Machine Learning, Machine Learning"
+Python For Data Analysis  Level 4,Other,Covers Python Basics Numpy Pandas And Data Cleaning For Analytics,"Python, Python"
+Natural Language Processing  Level 5,Other,Text Mining Sentiment Analysis And Nlp Models Using Python,Python
+Data Communication  Level 1,Other,Techniques For Presenting Analytical Findings Effectively,None
+Time Series Analysis  Level 1,Other,Arima Forecasting And Temporal Data Modeling,None
+Etl And Data Warehousing  Level 2,Other,Data Pipelines Warehousing And Etl Tools For Analytics,None
+Power Bi For Business Intelligence  Level 3,Other,Covers Power Bi Modeling Dax And Dashboard Creation,"Power BI, Power BI"
+Business Forecasting  Level 4,Other,Forecasting Demand Sales And Financial Trends Using Models,None
+Reinforcement Learning  Level 5,Other,Qlearning Deep Reinforcement Learning And Applications,None
+Data Engineering With Spark  Level 5,Other,Big Data Pipelines Using Apache Spark And Pyspark,None
+Data Mining Techniques  Level 2,Other,Clustering Classification And Association Rule Mining,None
+Big Data Analytics With Hadoop  Level 1,Other,Hadoop Ecosystem Hdfs Mapreduce And Data Processing,None
+Machine Learning Fundamentals  Level 2,Other,Introduction To Supervised And Unsupervised Machine Learning Algorithms,"Machine Learning, Machine Learning"
+Big Data Analytics With Hadoop  Level 2,Other,Hadoop Ecosystem Hdfs Mapreduce And Data Processing,None
+Sql For Data Science  Level 2,Other,Teaches Sql Queries Joins Subqueries And Database Management,"SQL, SQL"
+Deep Learning With Tensorflow  Level 2,Other,Neural Networks Cnns Rnns And Tensorflow Implementation,None
+Business Analytics  Level 3,Other,Frameworks For Analyzing And Interpreting Business Data,None
+Computer Vision  Level 5,Other,Image Processing Cnn Models And Object Detection,None
+Tableau Data Visualization  Level 2,Other,Interactive Dashboards Visual Analytics And Storytelling With Tableau,"Tableau, Tableau"
+Python For Data Analysis  Level 3,Other,Covers Python Basics Numpy Pandas And Data Cleaning For Analytics,"Python, Python"
+R Programming For Statistics  Level 4,Other,Focuses On R Programming Statistical Modeling And Visualization,"R, Statistics, R"
+Data Visualization With Python  Level 1,Other,Matplotlib Seaborn And Interactive Visualization Techniques,Python
+Machine Learning Fundamentals  Level 2,Other,Introduction To Supervised And Unsupervised Machine Learning Algorithms,"Machine Learning, Machine Learning"
+Computer Vision  Level 1,Other,Image Processing Cnn Models And Object Detection,None
+R Programming For Statistics  Level 4,Other,Focuses On R Programming Statistical Modeling And Visualization,"R, Statistics, R"
+Etl And Data Warehousing  Level 4,Other,Data Pipelines Warehousing And Etl Tools For Analytics,None
+Reinforcement Learning  Level 5,Other,Qlearning Deep Reinforcement Learning And Applications,None
+Data Visualization With Python  Level 4,Other,Matplotlib Seaborn And Interactive Visualization Techniques,Python
+Machine Learning Fundamentals  Level 4,Other,Introduction To Supervised And Unsupervised Machine Learning Algorithms,"Machine Learning, Machine Learning"
+Data Ethics And Privacy  Level 1,Other,Covers Ethical Handling Of Data Gdpr And Compliance,None
+Business Analytics  Level 1,Other,Frameworks For Analyzing And Interpreting Business Data,None
+Power Bi For Business Intelligence  Level 4,Other,Covers Power Bi Modeling Dax And Dashboard Creation,"Power BI, Power BI"
+Etl And Data Warehousing  Level 1,Other,Data Pipelines Warehousing And Etl Tools For Analytics,None
+Business Analytics  Level 5,Other,Frameworks For Analyzing And Interpreting Business Data,None
+Sql For Data Science  Level 2,Other,Teaches Sql Queries Joins Subqueries And Database Management,"SQL, SQL"
+R Programming For Statistics  Level 3,Other,Focuses On R Programming Statistical Modeling And Visualization,"R, Statistics, R"
+Big Data Analytics With Hadoop  Level 3,Other,Hadoop Ecosystem Hdfs Mapreduce And Data Processing,None
+Statistics For Data Science  Level 5,Other,Core Statistics Concepts Applied To Data Analysis,"Statistics, Statistics"
+Deep Learning With Tensorflow  Level 1,Other,Neural Networks Cnns Rnns And Tensorflow Implementation,None
+Python For Data Analysis  Level 5,Other,Covers Python Basics Numpy Pandas And Data Cleaning For Analytics,"Python, Python"
+Data Communication  Level 3,Other,Techniques For Presenting Analytical Findings Effectively,None
+Data Communication  Level 4,Other,Techniques For Presenting Analytical Findings Effectively,None
+Operations Research  Level 3,Other,Optimization Techniques Linear Programming And Decisionmaking,None
+Business Forecasting  Level 4,Other,Forecasting Demand Sales And Financial Trends Using Models,None
+Excel For Business Analytics  Level 5,Other,Advanced Excel Functions Pivot Tables And Datadriven Decision Making,"Excel, Excel"
+Data Mining Techniques  Level 3,Other,Clustering Classification And Association Rule Mining,None
+Data Communication  Level 1,Other,Techniques For Presenting Analytical Findings Effectively,None
+Advanced Sql Optimization  Level 2,Other,Query Tuning Indexing And Stored Procedures For Performance,SQL
+Deep Learning With Tensorflow  Level 4,Other,Neural Networks Cnns Rnns And Tensorflow Implementation,None
+Applied Econometrics  Level 1,Other,Regression Analysis Panel Data And Econometric Modeling,None
+Reinforcement Learning  Level 5,Other,Qlearning Deep Reinforcement Learning And Applications,None
+Statistics For Data Science  Level 3,Other,Core Statistics Concepts Applied To Data Analysis,"Statistics, Statistics"
+Data Communication  Level 2,Other,Techniques For Presenting Analytical Findings Effectively,None
+Excel For Business Analytics  Level 2,Other,Advanced Excel Functions Pivot Tables And Datadriven Decision Making,"Excel, Excel"
+Data Communication  Level 1,Other,Techniques For Presenting Analytical Findings Effectively,None
+Data Ethics And Privacy  Level 4,Other,Covers Ethical Handling Of Data Gdpr And Compliance,None
+Big Data Analytics With Hadoop  Level 4,Other,Hadoop Ecosystem Hdfs Mapreduce And Data Processing,None
+Tableau Data Visualization  Level 2,Other,Interactive Dashboards Visual Analytics And Storytelling With Tableau,"Tableau, Tableau"
+Data Communication  Level 4,Other,Techniques For Presenting Analytical Findings Effectively,None
+Excel For Business Analytics  Level 1,Other,Advanced Excel Functions Pivot Tables And Datadriven Decision Making,"Excel, Excel"
+Power Bi For Business Intelligence  Level 5,Other,Covers Power Bi Modeling Dax And Dashboard Creation,"Power BI, Power BI"
+Python For Data Analysis  Level 2,Other,Covers Python Basics Numpy Pandas And Data Cleaning For Analytics,"Python, Python"
+Data Engineering With Spark  Level 5,Other,Big Data Pipelines Using Apache Spark And Pyspark,None
+Data Engineering With Spark  Level 4,Other,Big Data Pipelines Using Apache Spark And Pyspark,None
+Data Communication  Level 1,Other,Techniques For Presenting Analytical Findings Effectively,None
+Data Visualization With Python  Level 2,Other,Matplotlib Seaborn And Interactive Visualization Techniques,Python
+Etl And Data Warehousing  Level 1,Other,Data Pipelines Warehousing And Etl Tools For Analytics,None
+Power Bi For Business Intelligence  Level 2,Other,Covers Power Bi Modeling Dax And Dashboard Creation,"Power BI, Power BI"
+Python For Data Analysis  Level 3,Other,Covers Python Basics Numpy Pandas And Data Cleaning For Analytics,"Python, Python"
+Time Series Analysis  Level 1,Other,Arima Forecasting And Temporal Data Modeling,None
+Computer Vision  Level 5,Other,Image Processing Cnn Models And Object Detection,None
+Operations Research  Level 4,Other,Optimization Techniques Linear Programming And Decisionmaking,None
+Machine Learning Fundamentals  Level 4,Other,Introduction To Supervised And Unsupervised Machine Learning Algorithms,"Machine Learning, Machine Learning"
+Artificial Intelligence Basics  Level 4,Other,Overview Of Ai Intelligent Agents And Problemsolving Techniques,None
+Artificial Intelligence Basics  Level 4,Other,Overview Of Ai Intelligent Agents And Problemsolving Techniques,None
+Etl And Data Warehousing  Level 4,Other,Data Pipelines Warehousing And Etl Tools For Analytics,None
+Sql For Data Science  Level 5,Other,Teaches Sql Queries Joins Subqueries And Database Management,"SQL, SQL"
+Predictive Analytics  Level 1,Other,Regression Classification And Predictive Modeling Techniques,None
+Applied Econometrics  Level 5,Other,Regression Analysis Panel Data And Econometric Modeling,None
+Sql For Data Science  Level 5,Other,Teaches Sql Queries Joins Subqueries And Database Management,"SQL, SQL"
+Advanced Sql Optimization  Level 2,Other,Query Tuning Indexing And Stored Procedures For Performance,SQL
+Cloud Computing For Data Science  Level 3,Other,Aws Azure And Gcp For Scalable Analytics Solutions,None
+Tableau Data Visualization  Level 3,Other,Interactive Dashboards Visual Analytics And Storytelling With Tableau,"Tableau, Tableau"
+Deep Learning With Tensorflow  Level 3,Other,Neural Networks Cnns Rnns And Tensorflow Implementation,None
+Business Forecasting  Level 5,Other,Forecasting Demand Sales And Financial Trends Using Models,None
+Business Forecasting  Level 4,Other,Forecasting Demand Sales And Financial Trends Using Models,None
+Natural Language Processing  Level 3,Other,Text Mining Sentiment Analysis And Nlp Models Using Python,Python
+Applied Econometrics  Level 2,Other,Regression Analysis Panel Data And Econometric Modeling,None
+Data Engineering With Spark  Level 4,Other,Big Data Pipelines Using Apache Spark And Pyspark,None
+Natural Language Processing  Level 5,Other,Text Mining Sentiment Analysis And Nlp Models Using Python,Python
+Sql For Data Science  Level 3,Other,Teaches Sql Queries Joins Subqueries And Database Management,"SQL, SQL"
+Time Series Analysis  Level 3,Other,Arima Forecasting And Temporal Data Modeling,None
+Business Forecasting  Level 3,Other,Forecasting Demand Sales And Financial Trends Using Models,None
+Reinforcement Learning  Level 4,Other,Qlearning Deep Reinforcement Learning And Applications,None
+Computer Vision  Level 1,Other,Image Processing Cnn Models And Object Detection,None
+Excel For Business Analytics  Level 1,Other,Advanced Excel Functions Pivot Tables And Datadriven Decision Making,"Excel, Excel"
+Big Data Analytics With Hadoop  Level 1,Other,Hadoop Ecosystem Hdfs Mapreduce And Data Processing,None
+Machine Learning Fundamentals  Level 1,Other,Introduction To Supervised And Unsupervised Machine Learning Algorithms,"Machine Learning, Machine Learning"
+Natural Language Processing  Level 4,Other,Text Mining Sentiment Analysis And Nlp Models Using Python,Python
+Reinforcement Learning  Level 2,Other,Qlearning Deep Reinforcement Learning And Applications,None
+Advanced Sql Optimization  Level 1,Other,Query Tuning Indexing And Stored Procedures For Performance,SQL
+Power Bi For Business Intelligence  Level 4,Other,Covers Power Bi Modeling Dax And Dashboard Creation,"Power BI, Power BI"
+R Programming For Statistics  Level 4,Other,Focuses On R Programming Statistical Modeling And Visualization,"R, Statistics, R"
+Operations Research  Level 1,Other,Optimization Techniques Linear Programming And Decisionmaking,None
+Data Mining Techniques  Level 4,Other,Clustering Classification And Association Rule Mining,None
+Power Bi For Business Intelligence  Level 2,Other,Covers Power Bi Modeling Dax And Dashboard Creation,"Power BI, Power BI"
+Computer Vision  Level 3,Other,Image Processing Cnn Models And Object Detection,None
+Applied Econometrics  Level 1,Other,Regression Analysis Panel Data And Econometric Modeling,None
+Statistics For Data Science  Level 5,Other,Core Statistics Concepts Applied To Data Analysis,"Statistics, Statistics"
+Excel For Business Analytics  Level 2,Other,Advanced Excel Functions Pivot Tables And Datadriven Decision Making,"Excel, Excel"
+Business Analytics  Level 1,Other,Frameworks For Analyzing And Interpreting Business Data,None
+R Programming For Statistics  Level 4,Other,Focuses On R Programming Statistical Modeling And Visualization,"R, Statistics, R"
+Data Communication  Level 1,Other,Techniques For Presenting Analytical Findings Effectively,None
+Predictive Analytics  Level 5,Other,Regression Classification And Predictive Modeling Techniques,None
+Power Bi For Business Intelligence  Level 2,Other,Covers Power Bi Modeling Dax And Dashboard Creation,"Power BI, Power BI"
+Statistics For Data Science  Level 5,Other,Core Statistics Concepts Applied To Data Analysis,"Statistics, Statistics"
+Big Data Analytics With Hadoop  Level 2,Other,Hadoop Ecosystem Hdfs Mapreduce And Data Processing,None
+Data Storytelling  Level 4,Other,Methods For Turning Data Into Compelling Narratives,None
+Advanced Sql Optimization  Level 4,Other,Query Tuning Indexing And Stored Procedures For Performance,SQL
+Data Engineering With Spark  Level 2,Other,Big Data Pipelines Using Apache Spark And Pyspark,None
+Artificial Intelligence Basics  Level 5,Other,Overview Of Ai Intelligent Agents And Problemsolving Techniques,None
+Big Data Analytics With Hadoop  Level 4,Other,Hadoop Ecosystem Hdfs Mapreduce And Data Processing,None
+Data Visualization With Python  Level 2,Other,Matplotlib Seaborn And Interactive Visualization Techniques,Python

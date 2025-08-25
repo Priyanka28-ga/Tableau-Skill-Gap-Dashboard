@@ -1,0 +1,9 @@
+skill,demand_count,supply_count,gap,gap_class
+Excel,101,6,95,High Gap (Demand >> Supply)
+Statistics,66,14,52,High Gap (Demand >> Supply)
+Tableau,37,4,33,High Gap (Demand >> Supply)
+R,37,6,31,High Gap (Demand >> Supply)
+SQL,42,13,29,High Gap (Demand >> Supply)
+Machine Learning,32,7,25,High Gap (Demand >> Supply)
+Python,32,19,13,Aligned / Moderate Gap
+Power BI,14,9,5,Aligned / Moderate Gap

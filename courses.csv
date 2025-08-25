@@ -1,0 +1,181 @@
+Course Name,Abbreviation,Course Description
+Deep Learning with TensorFlow - Level 2,DLTF1,"Neural networks, CNNs, RNNs, and TensorFlow implementation."
+Data Communication - Level 2,DCOM2,Techniques for presenting analytical findings effectively.
+Natural Language Processing - Level 5,NLP3,"Text mining, sentiment analysis, and NLP models using Python."
+Applied Econometrics - Level 5,AECO4,"Regression analysis, panel data, and econometric modeling."
+R Programming for Statistics - Level 2,RSTAT5,"Focuses on R programming, statistical modeling, and visualization."
+Time Series Analysis - Level 4,TSA6,"ARIMA, forecasting, and temporal data modeling."
+Data Storytelling - Level 5,DST7,Methods for turning data into compelling narratives.
+Python for Data Analysis - Level 3,PYDA8,"Covers Python basics, NumPy, Pandas, and data cleaning for analytics."
+Deep Learning with TensorFlow - Level 1,DLTF9,"Neural networks, CNNs, RNNs, and TensorFlow implementation."
+Computer Vision - Level 1,CV10,"Image processing, CNN models, and object detection."
+Cloud Computing for Data Science - Level 1,CCDS11,"AWS, Azure, and GCP for scalable analytics solutions."
+Time Series Analysis - Level 4,TSA12,"ARIMA, forecasting, and temporal data modeling."
+ETL and Data Warehousing - Level 5,ETLDW13,"Data pipelines, warehousing, and ETL tools for analytics."
+SQL for Data Science - Level 3,SQLDS14,"Teaches SQL queries, joins, subqueries, and database management."
+Business Forecasting - Level 1,BF15,"Forecasting demand, sales, and financial trends using models."
+Business Analytics - Level 5,BA16,Frameworks for analyzing and interpreting business data.
+Advanced SQL Optimization - Level 4,ASQL17,"Query tuning, indexing, and stored procedures for performance."
+Statistics for Data Science - Level 5,STDS18,Core statistics concepts applied to data analysis.
+Data Mining Techniques - Level 1,DMT19,"Clustering, classification, and association rule mining."
+Business Analytics - Level 5,BA20,Frameworks for analyzing and interpreting business data.
+Business Analytics - Level 5,BA21,Frameworks for analyzing and interpreting business data.
+Statistics for Data Science - Level 3,STDS22,Core statistics concepts applied to data analysis.
+Data Visualization with Python - Level 1,DVPY23,"Matplotlib, Seaborn, and interactive visualization techniques."
+Applied Econometrics - Level 2,AECO24,"Regression analysis, panel data, and econometric modeling."
+Deep Learning with TensorFlow - Level 4,DLTF25,"Neural networks, CNNs, RNNs, and TensorFlow implementation."
+Power BI for Business Intelligence - Level 5,PBI26,"Covers Power BI modeling, DAX, and dashboard creation."
+Natural Language Processing - Level 1,NLP27,"Text mining, sentiment analysis, and NLP models using Python."
+Data Communication - Level 1,DCOM28,Techniques for presenting analytical findings effectively.
+Applied Econometrics - Level 5,AECO29,"Regression analysis, panel data, and econometric modeling."
+Data Engineering with Spark - Level 3,DESP30,Big data pipelines using Apache Spark and PySpark.
+Deep Learning with TensorFlow - Level 3,DLTF31,"Neural networks, CNNs, RNNs, and TensorFlow implementation."
+Natural Language Processing - Level 3,NLP32,"Text mining, sentiment analysis, and NLP models using Python."
+Business Statistics - Level 4,BSTATS33,"Probability, hypothesis testing, and regression for business."
+Advanced SQL Optimization - Level 5,ASQL34,"Query tuning, indexing, and stored procedures for performance."
+Cloud Computing for Data Science - Level 3,CCDS35,"AWS, Azure, and GCP for scalable analytics solutions."
+Reinforcement Learning - Level 5,RL36,"Q-learning, deep reinforcement learning, and applications."
+Data Communication - Level 1,DCOM37,Techniques for presenting analytical findings effectively.
+Predictive Analytics - Level 1,PA38,"Regression, classification, and predictive modeling techniques."
+Reinforcement Learning - Level 2,RL39,"Q-learning, deep reinforcement learning, and applications."
+Data Storytelling - Level 4,DST40,Methods for turning data into compelling narratives.
+Business Analytics - Level 2,BA41,Frameworks for analyzing and interpreting business data.
+Machine Learning Fundamentals - Level 2,MLF42,Introduction to supervised and unsupervised machine learning algorithms.
+Tableau Data Visualization - Level 2,TABDV43,"Interactive dashboards, visual analytics, and storytelling with Tableau."
+Big Data Analytics with Hadoop - Level 1,BDAH44,"Hadoop ecosystem, HDFS, MapReduce, and data processing."
+Deep Learning with TensorFlow - Level 1,DLTF45,"Neural networks, CNNs, RNNs, and TensorFlow implementation."
+Business Forecasting - Level 1,BF46,"Forecasting demand, sales, and financial trends using models."
+Business Forecasting - Level 5,BF47,"Forecasting demand, sales, and financial trends using models."
+Deep Learning with TensorFlow - Level 1,DLTF48,"Neural networks, CNNs, RNNs, and TensorFlow implementation."
+ETL and Data Warehousing - Level 1,ETLDW49,"Data pipelines, warehousing, and ETL tools for analytics."
+Python for Data Analysis - Level 1,PYDA50,"Covers Python basics, NumPy, Pandas, and data cleaning for analytics."
+Excel for Business Analytics - Level 3,EXBA51,"Advanced Excel functions, pivot tables, and data-driven decision making."
+Applied Econometrics - Level 3,AECO52,"Regression analysis, panel data, and econometric modeling."
+Statistics for Data Science - Level 5,STDS53,Core statistics concepts applied to data analysis.
+Data Ethics and Privacy - Level 5,DEP54,"Covers ethical handling of data, GDPR, and compliance."
+Artificial Intelligence Basics - Level 4,AIB55,"Overview of AI, intelligent agents, and problem-solving techniques."
+Power BI for Business Intelligence - Level 4,PBI56,"Covers Power BI modeling, DAX, and dashboard creation."
+SQL for Data Science - Level 5,SQLDS57,"Teaches SQL queries, joins, subqueries, and database management."
+Machine Learning Fundamentals - Level 5,MLF58,Introduction to supervised and unsupervised machine learning algorithms.
+Python for Data Analysis - Level 4,PYDA59,"Covers Python basics, NumPy, Pandas, and data cleaning for analytics."
+Natural Language Processing - Level 5,NLP60,"Text mining, sentiment analysis, and NLP models using Python."
+Data Communication - Level 1,DCOM61,Techniques for presenting analytical findings effectively.
+Time Series Analysis - Level 1,TSA62,"ARIMA, forecasting, and temporal data modeling."
+ETL and Data Warehousing - Level 2,ETLDW63,"Data pipelines, warehousing, and ETL tools for analytics."
+Power BI for Business Intelligence - Level 3,PBI64,"Covers Power BI modeling, DAX, and dashboard creation."
+Business Forecasting - Level 4,BF65,"Forecasting demand, sales, and financial trends using models."
+Reinforcement Learning - Level 5,RL66,"Q-learning, deep reinforcement learning, and applications."
+Data Engineering with Spark - Level 5,DESP67,Big data pipelines using Apache Spark and PySpark.
+Data Mining Techniques - Level 2,DMT68,"Clustering, classification, and association rule mining."
+Big Data Analytics with Hadoop - Level 1,BDAH69,"Hadoop ecosystem, HDFS, MapReduce, and data processing."
+Machine Learning Fundamentals - Level 2,MLF70,Introduction to supervised and unsupervised machine learning algorithms.
+Big Data Analytics with Hadoop - Level 2,BDAH71,"Hadoop ecosystem, HDFS, MapReduce, and data processing."
+SQL for Data Science - Level 2,SQLDS72,"Teaches SQL queries, joins, subqueries, and database management."
+Deep Learning with TensorFlow - Level 2,DLTF73,"Neural networks, CNNs, RNNs, and TensorFlow implementation."
+Business Analytics - Level 3,BA74,Frameworks for analyzing and interpreting business data.
+Computer Vision - Level 5,CV75,"Image processing, CNN models, and object detection."
+Tableau Data Visualization - Level 2,TABDV76,"Interactive dashboards, visual analytics, and storytelling with Tableau."
+Python for Data Analysis - Level 3,PYDA77,"Covers Python basics, NumPy, Pandas, and data cleaning for analytics."
+R Programming for Statistics - Level 4,RSTAT78,"Focuses on R programming, statistical modeling, and visualization."
+Data Visualization with Python - Level 1,DVPY79,"Matplotlib, Seaborn, and interactive visualization techniques."
+Machine Learning Fundamentals - Level 2,MLF80,Introduction to supervised and unsupervised machine learning algorithms.
+Computer Vision - Level 1,CV81,"Image processing, CNN models, and object detection."
+R Programming for Statistics - Level 4,RSTAT82,"Focuses on R programming, statistical modeling, and visualization."
+ETL and Data Warehousing - Level 4,ETLDW83,"Data pipelines, warehousing, and ETL tools for analytics."
+Reinforcement Learning - Level 5,RL84,"Q-learning, deep reinforcement learning, and applications."
+Data Visualization with Python - Level 4,DVPY85,"Matplotlib, Seaborn, and interactive visualization techniques."
+Machine Learning Fundamentals - Level 4,MLF86,Introduction to supervised and unsupervised machine learning algorithms.
+Data Ethics and Privacy - Level 1,DEP87,"Covers ethical handling of data, GDPR, and compliance."
+Business Analytics - Level 1,BA88,Frameworks for analyzing and interpreting business data.
+Power BI for Business Intelligence - Level 4,PBI89,"Covers Power BI modeling, DAX, and dashboard creation."
+ETL and Data Warehousing - Level 1,ETLDW90,"Data pipelines, warehousing, and ETL tools for analytics."
+Business Analytics - Level 5,BA91,Frameworks for analyzing and interpreting business data.
+SQL for Data Science - Level 2,SQLDS92,"Teaches SQL queries, joins, subqueries, and database management."
+R Programming for Statistics - Level 3,RSTAT93,"Focuses on R programming, statistical modeling, and visualization."
+Big Data Analytics with Hadoop - Level 3,BDAH94,"Hadoop ecosystem, HDFS, MapReduce, and data processing."
+Statistics for Data Science - Level 5,STDS95,Core statistics concepts applied to data analysis.
+Deep Learning with TensorFlow - Level 1,DLTF96,"Neural networks, CNNs, RNNs, and TensorFlow implementation."
+Python for Data Analysis - Level 5,PYDA97,"Covers Python basics, NumPy, Pandas, and data cleaning for analytics."
+Data Communication - Level 3,DCOM98,Techniques for presenting analytical findings effectively.
+Data Communication - Level 4,DCOM99,Techniques for presenting analytical findings effectively.
+Operations Research - Level 3,OR100,"Optimization techniques, linear programming, and decision-making."
+Business Forecasting - Level 4,BF101,"Forecasting demand, sales, and financial trends using models."
+Excel for Business Analytics - Level 5,EXBA102,"Advanced Excel functions, pivot tables, and data-driven decision making."
+Data Mining Techniques - Level 3,DMT103,"Clustering, classification, and association rule mining."
+Data Communication - Level 1,DCOM104,Techniques for presenting analytical findings effectively.
+Advanced SQL Optimization - Level 2,ASQL105,"Query tuning, indexing, and stored procedures for performance."
+Deep Learning with TensorFlow - Level 4,DLTF106,"Neural networks, CNNs, RNNs, and TensorFlow implementation."
+Applied Econometrics - Level 1,AECO107,"Regression analysis, panel data, and econometric modeling."
+Reinforcement Learning - Level 5,RL108,"Q-learning, deep reinforcement learning, and applications."
+Statistics for Data Science - Level 3,STDS109,Core statistics concepts applied to data analysis.
+Data Communication - Level 2,DCOM110,Techniques for presenting analytical findings effectively.
+Excel for Business Analytics - Level 2,EXBA111,"Advanced Excel functions, pivot tables, and data-driven decision making."
+Data Communication - Level 1,DCOM112,Techniques for presenting analytical findings effectively.
+Data Ethics and Privacy - Level 4,DEP113,"Covers ethical handling of data, GDPR, and compliance."
+Big Data Analytics with Hadoop - Level 4,BDAH114,"Hadoop ecosystem, HDFS, MapReduce, and data processing."
+Tableau Data Visualization - Level 2,TABDV115,"Interactive dashboards, visual analytics, and storytelling with Tableau."
+Data Communication - Level 4,DCOM116,Techniques for presenting analytical findings effectively.
+Excel for Business Analytics - Level 1,EXBA117,"Advanced Excel functions, pivot tables, and data-driven decision making."
+Power BI for Business Intelligence - Level 5,PBI118,"Covers Power BI modeling, DAX, and dashboard creation."
+Python for Data Analysis - Level 2,PYDA119,"Covers Python basics, NumPy, Pandas, and data cleaning for analytics."
+Data Engineering with Spark - Level 5,DESP120,Big data pipelines using Apache Spark and PySpark.
+Data Engineering with Spark - Level 4,DESP121,Big data pipelines using Apache Spark and PySpark.
+Data Communication - Level 1,DCOM122,Techniques for presenting analytical findings effectively.
+Data Visualization with Python - Level 2,DVPY123,"Matplotlib, Seaborn, and interactive visualization techniques."
+ETL and Data Warehousing - Level 1,ETLDW124,"Data pipelines, warehousing, and ETL tools for analytics."
+Power BI for Business Intelligence - Level 2,PBI125,"Covers Power BI modeling, DAX, and dashboard creation."
+Python for Data Analysis - Level 3,PYDA126,"Covers Python basics, NumPy, Pandas, and data cleaning for analytics."
+Time Series Analysis - Level 1,TSA127,"ARIMA, forecasting, and temporal data modeling."
+Computer Vision - Level 5,CV128,"Image processing, CNN models, and object detection."
+Operations Research - Level 4,OR129,"Optimization techniques, linear programming, and decision-making."
+Machine Learning Fundamentals - Level 4,MLF130,Introduction to supervised and unsupervised machine learning algorithms.
+Artificial Intelligence Basics - Level 4,AIB131,"Overview of AI, intelligent agents, and problem-solving techniques."
+Artificial Intelligence Basics - Level 4,AIB132,"Overview of AI, intelligent agents, and problem-solving techniques."
+ETL and Data Warehousing - Level 4,ETLDW133,"Data pipelines, warehousing, and ETL tools for analytics."
+SQL for Data Science - Level 5,SQLDS134,"Teaches SQL queries, joins, subqueries, and database management."
+Predictive Analytics - Level 1,PA135,"Regression, classification, and predictive modeling techniques."
+Applied Econometrics - Level 5,AECO136,"Regression analysis, panel data, and econometric modeling."
+SQL for Data Science - Level 5,SQLDS137,"Teaches SQL queries, joins, subqueries, and database management."
+Advanced SQL Optimization - Level 2,ASQL138,"Query tuning, indexing, and stored procedures for performance."
+Cloud Computing for Data Science - Level 3,CCDS139,"AWS, Azure, and GCP for scalable analytics solutions."
+Tableau Data Visualization - Level 3,TABDV140,"Interactive dashboards, visual analytics, and storytelling with Tableau."
+Deep Learning with TensorFlow - Level 3,DLTF141,"Neural networks, CNNs, RNNs, and TensorFlow implementation."
+Business Forecasting - Level 5,BF142,"Forecasting demand, sales, and financial trends using models."
+Business Forecasting - Level 4,BF143,"Forecasting demand, sales, and financial trends using models."
+Natural Language Processing - Level 3,NLP144,"Text mining, sentiment analysis, and NLP models using Python."
+Applied Econometrics - Level 2,AECO145,"Regression analysis, panel data, and econometric modeling."
+Data Engineering with Spark - Level 4,DESP146,Big data pipelines using Apache Spark and PySpark.
+Natural Language Processing - Level 5,NLP147,"Text mining, sentiment analysis, and NLP models using Python."
+SQL for Data Science - Level 3,SQLDS148,"Teaches SQL queries, joins, subqueries, and database management."
+Time Series Analysis - Level 3,TSA149,"ARIMA, forecasting, and temporal data modeling."
+Business Forecasting - Level 3,BF150,"Forecasting demand, sales, and financial trends using models."
+Reinforcement Learning - Level 4,RL151,"Q-learning, deep reinforcement learning, and applications."
+Computer Vision - Level 1,CV152,"Image processing, CNN models, and object detection."
+Excel for Business Analytics - Level 1,EXBA153,"Advanced Excel functions, pivot tables, and data-driven decision making."
+Big Data Analytics with Hadoop - Level 1,BDAH154,"Hadoop ecosystem, HDFS, MapReduce, and data processing."
+Machine Learning Fundamentals - Level 1,MLF155,Introduction to supervised and unsupervised machine learning algorithms.
+Natural Language Processing - Level 4,NLP156,"Text mining, sentiment analysis, and NLP models using Python."
+Reinforcement Learning - Level 2,RL157,"Q-learning, deep reinforcement learning, and applications."
+Advanced SQL Optimization - Level 1,ASQL158,"Query tuning, indexing, and stored procedures for performance."
+Power BI for Business Intelligence - Level 4,PBI159,"Covers Power BI modeling, DAX, and dashboard creation."
+R Programming for Statistics - Level 4,RSTAT160,"Focuses on R programming, statistical modeling, and visualization."
+Operations Research - Level 1,OR161,"Optimization techniques, linear programming, and decision-making."
+Data Mining Techniques - Level 4,DMT162,"Clustering, classification, and association rule mining."
+Power BI for Business Intelligence - Level 2,PBI163,"Covers Power BI modeling, DAX, and dashboard creation."
+Computer Vision - Level 3,CV164,"Image processing, CNN models, and object detection."
+Applied Econometrics - Level 1,AECO165,"Regression analysis, panel data, and econometric modeling."
+Statistics for Data Science - Level 5,STDS166,Core statistics concepts applied to data analysis.
+Excel for Business Analytics - Level 2,EXBA167,"Advanced Excel functions, pivot tables, and data-driven decision making."
+Business Analytics - Level 1,BA168,Frameworks for analyzing and interpreting business data.
+R Programming for Statistics - Level 4,RSTAT169,"Focuses on R programming, statistical modeling, and visualization."
+Data Communication - Level 1,DCOM170,Techniques for presenting analytical findings effectively.
+Predictive Analytics - Level 5,PA171,"Regression, classification, and predictive modeling techniques."
+Power BI for Business Intelligence - Level 2,PBI172,"Covers Power BI modeling, DAX, and dashboard creation."
+Statistics for Data Science - Level 5,STDS173,Core statistics concepts applied to data analysis.
+Big Data Analytics with Hadoop - Level 2,BDAH174,"Hadoop ecosystem, HDFS, MapReduce, and data processing."
+Data Storytelling - Level 4,DST175,Methods for turning data into compelling narratives.
+Advanced SQL Optimization - Level 4,ASQL176,"Query tuning, indexing, and stored procedures for performance."
+Data Engineering with Spark - Level 2,DESP177,Big data pipelines using Apache Spark and PySpark.
+Artificial Intelligence Basics - Level 5,AIB178,"Overview of AI, intelligent agents, and problem-solving techniques."
+Big Data Analytics with Hadoop - Level 4,BDAH179,"Hadoop ecosystem, HDFS, MapReduce, and data processing."
+Data Visualization with Python - Level 2,DVPY180,"Matplotlib, Seaborn, and interactive visualization techniques."
