@@ -12,16 +12,17 @@ It was built in **Tableau** using sample HR data.
 - Global filters applied across dashboard
 
 ## 🖼️ Dashboard Preview
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](dashboard.png)
 
 ## 📂 Files
 - `Skill_Gap_Analyzer.twbx` → Tableau Packaged Workbook
-- `data/skills_data.csv` → Source dataset
-- `screenshots/` → Dashboard images
+- - `new-folder` → Source dataset and cleaned version of it
+- `output/skills_gap_comparison.csv` → Main dataset
+- `dashboard.png` → Dashboard images
 
 ## 🚀 How to View
 1. Download Tableau Public (free).
-2. Open `Skill_Gap_Analyzer.twbx`.
+2. Open `skill gap analyzer TEXTBOOK.twbx`.
 3. Or view online here: [Tableau Public Link](your-link-here)
 
 ## 📌 Insights
